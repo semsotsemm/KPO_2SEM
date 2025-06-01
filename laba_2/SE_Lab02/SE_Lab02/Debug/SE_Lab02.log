@@ -1,0 +1,5 @@
+﻿  SE_Lab02.cpp
+C:\Users\yyhsi\OneDrive\Рабочий стол\лабы кпо\лаба 2\SE_Lab02\SE_Lab02\SE_Lab02.cpp(31,22): warning C4309: инициализация: усечение константного значения
+C:\Users\yyhsi\OneDrive\Рабочий стол\лабы кпо\лаба 2\SE_Lab02\SE_Lab02\SE_Lab02.cpp(57,1): warning C4723: возможное деление на 0
+C:\Users\yyhsi\OneDrive\Рабочий стол\лабы кпо\лаба 2\SE_Lab02\SE_Lab02\SE_Lab02.cpp(58,1): warning C4723: возможное деление на 0
+  SE_Lab02.vcxproj -> C:\Users\yyhsi\OneDrive\Рабочий стол\лабы кпо\лаба 2\SE_Lab02\Debug\SE_Lab02.exe
